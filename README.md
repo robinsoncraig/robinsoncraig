@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a **Full-Stack Developer, Cybersecurity enth
 ---
 
 ## 🚀 About Me
-- 🎓 Diploma in Information Technology, **KCA University** (Class of 2025)  
+- 🎓 Information Technology, **KCA University** (Class of 2025)  
 - 💻 Full-stack developer: **HTML | CSS | JavaScript | Python | Bootstrap | PHP | Laravel | Node.js**  
 - 🗄️ Databases & backend: **MySQL | PostgreSQL | MongoDB | Firebase | SQLite**  
 - 🌐 Networking & Windows OS  
