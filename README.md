@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a **Full-Stack Developer, Cybersecurity enth
 - 🗄️ Databases & backend: **MySQL | PostgreSQL | MongoDB | Firebase | SQLite**  
 - 🌐 Networking & Windows OS  
 - 🔒 Cybersecurity enthusiast  
-- 🏠 Entrepreneur: Founder of **Negro Contractors Enterprise Ltd** (Real Estate services) & **Negro Mobile Hub** (Ex-UK iPhone & Samsung retail)  
+- 🏠 Entrepreneur: Founder of **Negro Contractors Enterprise Ltd** (Real Estate services), **Negro Tech Hub** & **Negro Mobile Hub** (Ex-UK iPhone & Samsung retail)  
 - 🤖 Bot developer & hobby programmer  
 
 ---
